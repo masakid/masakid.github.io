@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on engineer de scar?</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on engineer de scar?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>All rights reserved - 2015</copyright>
+    <lastBuildDate>Wed, 10 Jun 2015 01:32:29 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>はじめに</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Wed, 10 Jun 2015 01:32:29 +0900</pubDate>
+      
+      <guid>http://localhost:1313/post/first/</guid>
+      <description>&lt;p&gt;初投稿です。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
