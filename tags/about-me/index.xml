@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Me on engineer de scar?</title>
-    <link>http://localhost:1313/tags/about-me/</link>
+    <link>http://masakid.github.io/tags/about-me/</link>
     <description>Recent content in About Me on engineer de scar?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>All rights reserved - 2015</copyright>
     <lastBuildDate>Wed, 10 Jun 2015 01:35:45 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://masakid.github.io/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://masakid.github.io/about/</link>
       <pubDate>Wed, 10 Jun 2015 01:35:45 +0900</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://masakid.github.io/about/</guid>
       <description>&lt;p&gt;本ブログはMasaki Kubotaのブログです。&lt;/p&gt;
 
 &lt;p&gt;自分で開発した制作物を配置する目的で開設しました。&lt;/p&gt;
