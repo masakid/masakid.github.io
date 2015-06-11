@@ -16,7 +16,48 @@
       <pubDate>Wed, 10 Jun 2015 01:32:29 +0900</pubDate>
       
       <guid>http://masakid.github.io/post/first/</guid>
-      <description>&lt;p&gt;初投稿です。&lt;/p&gt;
+      <description>
+
+&lt;p&gt;初投稿です。&lt;br /&gt;
+マークダウン記法、覚えるのがめんどうです。&lt;/p&gt;
+
+&lt;h1 id=&#34;これがh1:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;これがh1&lt;/h1&gt;
+
+&lt;h2 id=&#34;これがh2:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;これがh2&lt;/h2&gt;
+
+&lt;p&gt;あとはリスト&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;リスト1&lt;/li&gt;
+&lt;li&gt;リスト2&lt;/li&gt;
+&lt;li&gt;リスト3
+
+&lt;ul&gt;
+&lt;li&gt;リスト3-1
+
+&lt;ul&gt;
+&lt;li&gt;リスト3-1-1&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;リスト3-2&lt;/li&gt;
+&lt;li&gt;リスト3-3&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;これがコード&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;puclic static void main(){
+    println(&amp;quot;Hello world&amp;quot;);
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;これで結構使えるものはマスターできた。あとは画像。&lt;/p&gt;
+
+&lt;p&gt;画像は少し面倒だ。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://masakid.github.io/images/iOS Simulator Screen.png&#34; alt=&#34;picture&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;そうでもなかった。&lt;/p&gt;
 </description>
     </item>
     
