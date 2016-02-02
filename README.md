@@ -30,10 +30,10 @@
  $ hugo server
  ```
  
- * build
+ * build shellを用意しているのでshellをたたく
  
  ```
- $ hugo
+ $ deploy.sh
  ```
 
 
