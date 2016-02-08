@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ios Swift on @Emukei_ galleria</title>
+    <link>http://masakid.github.io/tags/ios-swift/</link>
+    <description>Recent content in Ios Swift on @Emukei_ galleria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>All rights reserved - 2015</copyright>
+    <lastBuildDate>Mon, 08 Feb 2016 23:37:20 +0900</lastBuildDate>
+    <atom:link href="http://masakid.github.io/tags/ios-swift/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first ios application</title>
+      <link>http://masakid.github.io/post/first_ios_app/</link>
+      <pubDate>Mon, 08 Feb 2016 23:37:20 +0900</pubDate>
+      
+      <guid>http://masakid.github.io/post/first_ios_app/</guid>
+      <description>
+
+&lt;h1 id=&#34;最初のiosアプリケーション:9e56f24728eb4716ff6a322ec5202f42&#34;&gt;最初のiOSアプリケーション&lt;/h1&gt;
+
+&lt;p&gt;2015/06にリリースしました。&lt;/p&gt;
+
+&lt;p&gt;これが初アプリ。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/jp/app/10miaosutoppu!/id996551113?mt=8&#34;&gt;&amp;ldquo;10秒ストップ！&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;構成は本当に単純。
+ViewController + TableViewController、
+それでもって画面遷移で値を受け渡す、
+UserDefaultsへデータ保存。
+swiftも初めてだし、Xcodeも初めてだったし、デザインも初めてという初めて尽くし。
+リリースすることが目的でした。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
